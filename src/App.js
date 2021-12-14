@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Hello, world React</h1>
-        <p>Meu primeiro projeto</p>
+        <p>My test react app </p>
       </header>
     </div>
   );
